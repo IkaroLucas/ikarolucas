@@ -5,7 +5,7 @@
 - 🌱 Estudando desenvolvimento web fullstack!
 
 <div>
-  <img align="right" alt="Ikaro" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/517840205953368097/1076960797483348058/e8a70e071e2e0b408531f996e726b88a.jpg">
+  <img align="right" alt="Ikaro" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/517840205953368097/1091751532736827503/image.png">
 </div>
 
 <div style="display: inline_block"><br>
