@@ -3,6 +3,7 @@
 
 - 🔭 A procura de um trabalho pra aperfeiçoamento profissional
 - 🌱 Estudando desenvolvimento web fullstack!
+- 💻 Conhecimentos prevíos na area de QA
 
 <div>
   <img align="right" alt="Ikaro" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/517840205953368097/1091751532736827503/image.png">
