@@ -6,7 +6,7 @@
 - 💻 Conhecimentos prevíos na area de QA
 
 <div>
-  <img align="right" alt="Ikaro" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/517840205953368097/1091751532736827503/image.png">
+  <img align="right" alt="Ikaro" height="150" style="border-radius:50px;" src="[https://cdn.discordapp.com/attachments/517840205953368097/1091751532736827503/image.png](https://cdn.discordapp.com/attachments/517840205953368097/1106289588437274694/foto_projeto.jpg)">
 </div>
 
 <div style="display: inline_block"><br>
