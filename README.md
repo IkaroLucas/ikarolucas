@@ -6,7 +6,6 @@
 - 💻 Conhecimentos prevíos na area de QA
 
 <div>
-  <img align="right" alt="Ikaro" height="150" style="border-radius:50px;" src="">
 </div>
 
 <div style="display: inline_block"><br>
